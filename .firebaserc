@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "test-upload-397cd",
+    "firebase-react-deploy": "test-upload-397cd",
+    "staging": "test-upload-397cd",
+    "stage": "test-upload-397cd"
+  }
+}
